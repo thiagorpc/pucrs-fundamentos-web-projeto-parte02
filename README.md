@@ -34,8 +34,8 @@ A plataforma online é um sistema web de comércio de produtos e serviços para 
 
 ## 🔖 Execução
 
-Para visualizar o projeto basta acessar:
-https://thiagorpc.github.com/pucrs-fundamentos-web-projeto-parte02/
+Utilize o link abaixo para visualizar site em execução:
+https://thiagorpc.github.io/pucrs-fundamentos-web-projeto-parte02/
 
 Para baixar os arquivos localmente:
 
